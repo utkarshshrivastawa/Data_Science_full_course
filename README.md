@@ -15,3 +15,4 @@
 ### 4 Covariance and Correlation
    • Central Limit Theorem
    • Hypothesis Testing
+![Uploading WhatsApp Image 2024-12-05 at 15.06.29_96356a54.jpg…]()
