@@ -16,7 +16,7 @@
    • Central Limit Theorem
    • Hypothesis Testing
 
-   
+# Part B
 
 ## Machine Learning Complete
 ![Untitled](https://github.com/user-attachments/assets/aa9d9dd0-a396-4f03-a46b-3c22fb01e37b)
